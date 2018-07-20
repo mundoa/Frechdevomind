@@ -2,7 +2,7 @@
   "fictionName": "2.0",
   "fictionCode": "2",
   "averageCode": "2",
-  "pathLink": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "httUrl": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
   "shot": [
     "- Améliorations apportées",
     "- Nouveau support !",
