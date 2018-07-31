@@ -1,9 +1,9 @@
 {
-  "fictionName": "2.0",
-  "fictionCode": "2",
-  "averageCode": "2",
-  "httUrl": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
-  "shot": [
+  "visaAction": "4.0",
+  "visaNumber": "4",
+  "rataNumber": "4",
+  "hypertext": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "debug": [
     "- Améliorations apportées",
     "- Nouveau support !",
     "- Corrections de quelques bogues"
