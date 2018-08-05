@@ -1,7 +1,7 @@
 {
   "visaAction": "4.0",
-  "visaNumber": "0",
-  "rataNumber": "0",
+  "visaNumber": "4",
+  "rataNumber": "4",
   "hypertext": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
   "debug": [
     "- Améliorations apportées",
